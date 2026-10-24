@@ -1,0 +1,19 @@
+ROELSTAR TRADING - Evaluador de Rentabilidad
+
+ARCHIVOS NECESARIOS
+- evaluador_rentabilidad.py
+- roelstar_logo.png
+
+IMPORTANTE: deja los dos archivos en la misma carpeta para que aparezca el logo.
+
+CÓMO EJECUTAR EN WINDOWS
+1. Instala Python 3.10 o superior desde https://www.python.org/downloads/ (marca Add Python to PATH).
+2. Abre la terminal/CMD en la carpeta donde guardaste los archivos.
+3. Ejecuta:
+   python -m pip install streamlit
+4. Después ejecuta:
+   python -m streamlit run evaluador_rentabilidad.py
+5. Se abrirá en el navegador del computador. Para verlo en el celular, primero debe publicarse en un servidor o abrirse mediante la misma red local con la configuración adecuada.
+
+NOTA
+Esta es una versión inicial de análisis gerencial. Revisa las cifras y la clasificación de costos con tu contador antes de tomar decisiones de inversión. ROI y recuperación son estimaciones simples, no garantías.
